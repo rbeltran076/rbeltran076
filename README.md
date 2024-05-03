@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
+[![Build Status](https://travis-ci.com/username/repository.svg?branch=main)](https://travis-ci.com/username/repository)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <!--
 **rbeltran076/rbeltran076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
