@@ -1,8 +1,9 @@
 Hola mirador
 
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ronald-beltr%C3%A1n-9b39ba258/)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbeltran076&hide_progress=true&theme=dark)
 
-[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ronald-beltr%C3%A1n-9b39ba258/)
 <!--
 **rbeltran076/rbeltran076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
